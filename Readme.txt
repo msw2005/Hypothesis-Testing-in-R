@@ -1,5 +1,5 @@
 Author: M Sadiq Warsi
-Date: 25th January, 2024
+Date: 26th January, 2024
 Language: R
 
 This project performs statistical analysis and modeling on paired datasets representing measurements before and after an event in two subjects: mice and rats. The analysis includes visualizations such as density plots, boxplots, and Q-Q plots to assess data distributions. Normality tests (Shapiro-Wilk) determine the appropriate statistical tests for comparing before and after groups.
