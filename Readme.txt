@@ -9,4 +9,5 @@ For the normally distributed mice data, a paired t-test is applied, revealing a 
 Additionally, the project fits multiple theoretical distributions (Weibull, Lognormal, Gamma) to the rats dataset and uses visual diagnostic plots to conclude that the Weibull distribution best fits the pre-event rats data;
 
 
+
 This analysis provides insights into changes in measured values and appropriate statistical models to describe the data.
