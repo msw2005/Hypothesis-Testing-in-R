@@ -6,7 +6,8 @@ This project performs statistical analysis and modeling on paired datasets repre
 
 For the normally distributed mice data, a paired t-test is applied, revealing a significant difference in means between before and after conditions. For the non-normally distributed rats data, a Wilcoxon signed-rank test is used, also indicating a significant difference;
 
-Additionally, the project fits multiple theoretical distributions (Weibull, Lognormal, Gamma) to the rats dataset and uses visual diagnostic plots to conclude that the Weibull distribution best fits the pre-event rats data;
+Additionally, the project fits multiple theoretical distributions (Weibull, Lognormal, Gamma) to the rats dataset and uses visual diagnostic plots to conclude that the Weibull distribution best fits the pre-event rats data,
+
 
 
 
